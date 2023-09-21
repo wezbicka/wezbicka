@@ -9,8 +9,7 @@ Stack:
 
 Contact me:
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/vezhbitskaya/) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squaree&logo=telegram&logoColor=white)](https://t.me/AHIVOU) 
-![Profile views](https://gpvc.arturio.dev/wezbicka)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/vezhbitskaya/) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squaree&logo=telegram&logoColor=white)](https://t.me/wezhbicka)
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" **alt="python" width="40" height="40"/>

@@ -10,6 +10,7 @@ Stack:
 Contact me:
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/vezhbitskaya/) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squaree&logo=telegram&logoColor=white)](https://t.me/wezhbicka) 
+ 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vezhbitskayapolina@gmail.com)
 
 <div>
